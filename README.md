@@ -1,3 +1,11 @@
-# Semana OmniStack 11
+# Semana OmniStack 11 - Be the hero
 
-# Projeto - Be the hero
+### Backend
+
+Stack:
+- NodeJS
+- Express
+- Knex
+- SQLite 3
+
+### Frontend
