@@ -16,8 +16,6 @@ module.exports = {
       ong_id
     });
 
-    console.log(resp);
-
     return response.json({ id });
   },
   async delete(request, response) {
